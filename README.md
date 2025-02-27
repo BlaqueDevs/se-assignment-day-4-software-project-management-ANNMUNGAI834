@@ -7,7 +7,7 @@ Ensures client satisfaction, reduces costs, and maintains project momentum. Mana
 Prevents budget overruns, ensuring resource allocation aligns with project goals. Strategies include detailed budgeting, continuous monitoring, and effective resource management.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Agile:
-advantages-Flexible, iterative approach; better for changing requirements.
+advantages-Flexible, iterative approach better for changing requirements.
 disadvantages-May lack clear documentation.
 
 Waterfall: 
